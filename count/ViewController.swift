@@ -34,6 +34,7 @@ class ViewController: UIViewController {
         }else {
             label.textColor = UIColor.blackColor()
         }
+        
     }
     
     
